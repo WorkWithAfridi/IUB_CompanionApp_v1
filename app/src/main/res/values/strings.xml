@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">IUBCompanionApp</string>
+    <string name="takemeto">Take me to:</string>
+    <string name="iras">iRas V1.0</string>
+    <string name="website">Official Website</string>
+    <string name="cgpacal">CGPA Calculator</string>
+    <string name="notice">NOTICE</string>
+    <string name="gradecal">Grade Calculator</string>
+    <string name="contact">Emergency Contact</string>
+    <string name="aboutme">About me. :)</string>
+    <string name="library">Library Resources</string>
+    <string name="classroom">Find My Classroom</string>
+    <string name="find">Find something for me:</string>
+    <string name="iublocation">IUB on Google Maps</string>
+    <string name="classlocation">Your classroom is located at....</string>
+    <string name="button_findclassroom">Find my class room</string>
+    <string name="example_inputfor_findmyclassroom">Enter room number... EX: BC9015</string>
+    <string name="input_hint">Enter room number... ex: BC9015</string>
+    <string name="SOB">Floor 1 and 2: School Of Business</string>
+    <string name="SOE">Floor 4: School Of Engineering</string>
+    <string name="SOS">Floor 6: Sociology</string>
+    <string name="SOEnv">Floor 8: School Of Environment.</string>
+    <string name="universityname">Independent University Bangladesh</string>
+    <string name="iub">IUB</string>
+    <string name="companion">Companion App For</string>
+    <string name="slogan_one">For some IUBIAN</string>
+    <string name="slogan_two">By an IUBIAN. :)</string>
+    <string name="hacks">*Hacks XD*</string>
+    <string name="questionmark">"?"</string>
+    <string name="dev_info">"!"</string>
+    <string name="demo">this is a demo text</string>
+    <string name="back">Back</string>
+</resources>
